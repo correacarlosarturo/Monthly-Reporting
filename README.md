@@ -20,10 +20,6 @@ Each input file should follow this format:
 
 DataX_REGION.csv
 
-yaml
-Copy
-Edit
-
 Examples:
 - `Data1_EUROPE.csv`
 - `Data2_AMER.csv`
@@ -58,10 +54,10 @@ An Excel file named `monthly_summary.xlsx` with:
 pip install pandas openpyxl
 Step 2: Run the script
 Update the folder path in the script, or call it like:
-
-python
-Copy
-Edit
+```
+Step 2: Run the script
+Update the folder path in the script, or call it like:
+```zsh
 aggregate_and_export_monthly("/path/to/your/folder")
 ```
 
