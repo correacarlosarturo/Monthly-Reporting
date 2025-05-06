@@ -18,12 +18,12 @@ This Python script processes a folder of daily `.csv` files, each named with a r
 
 Each input file should follow this format:
 
-DataX_REGION.csv
+DataX_REPORT.csv
 
 Examples:
-- `Data1_EUROPE.csv`
-- `Data2_AMER.csv`
-- `Data3_BR.csv`
+- `Data1_REPORT.csv`
+- `Data2_REPORT.csv`
+- `Data3_REPORT.csv`
 
 ---
 
